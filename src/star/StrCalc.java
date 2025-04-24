@@ -1,4 +1,4 @@
-package hyejune;
+package star;
 
 import java.util.Scanner;
 
